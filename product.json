@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "45 Chair",
+        "price": "$90",
+        "image":"images/8.png"
+    },
+    {
+        "id": 2,
+        "name": "Adirondack Chair ",
+        "price": "$100",
+        "image":"images/7.png"
+    },
+    {
+        "id": 3,
+        "name": "Director’s Chair ",
+        "price": "$180",
+        "image":"images/6.png"
+    },
+    {
+        "id": 4,
+        "name": "Barcelona Chair",
+        "price": "$200",
+        "image":"images/5.png"
+    },
+    {
+        "id": 5,
+        "name": "Wingback Chair",
+        "price": "$120",
+        "image":"images/4.png"
+    },
+    {
+        "id": 6,
+        "name": "Bentwood Chair",
+        "price": "$80",
+        "image":"images/3.png"
+    },
+    {
+        "id": 7,
+        "name": "Egg Chair ",
+        "price": "$100",
+        "image":"images/2.png"
+    },
+    {
+        "id": 8,
+        "name": "Lounge Chair",
+        "price": "$95",
+        "image":"images/1.png"
+    }
+]
